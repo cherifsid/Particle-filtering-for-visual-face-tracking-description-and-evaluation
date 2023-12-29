@@ -1,4 +1,4 @@
-# Hand Gesture Tracking with Particle Filtering
+# Face Tracking with Particle Filtering
 
 ## Overview
 This Python script implements a particle filter-based hand gesture tracking algorithm using OpenCV. It tracks a face in a video stream by predicting and updating the state of particles representing potential face positions.
